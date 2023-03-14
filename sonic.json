@@ -8,9 +8,10 @@
     "authorization":"FuKDEke2Aado63tvHJjrTPb1qOg9YR8yQBzWGisXlcI0N45Mwp4XMCfQugvlajwBAKEpOkR1nTIc6idb",
     "route":"v3",
     "sender_id":"FTWSMS",
-    "message":"",
+    "message":" for Sonic Chat App. Please do not share this OTP to anyone.",
     "language":"english",
     "numbers":"",
-    "flash":0
+    "flash":0,
+    "otp_length":6
   }
 }
