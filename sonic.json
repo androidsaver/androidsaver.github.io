@@ -1,0 +1,7 @@
+{
+  "base_url": {
+    "send_otp":"fastsms",
+    "send_push_notification":"push_notification",
+    "database":"database"
+  }
+}
