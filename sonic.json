@@ -3,5 +3,14 @@
     "send_otp":"https://www.fast2sms.com/dev/bulkV2",
     "send_push_notification":"push_notification",
     "database":"database"
+  },
+  "sms_config": {
+    "authorization":"FuKDEke2Aado63tvHJjrTPb1qOg9YR8yQBzWGisXlcI0N45Mwp4XMCfQugvlajwBAKEpOkR1nTIc6idb",
+    "route":"v3",
+    "sender_id":"FTWSMS",
+    "message":"",
+    "language":"english",
+    "numbers":"",
+    "flash":0
   }
 }
