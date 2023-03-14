@@ -1,6 +1,6 @@
 {
   "base_url": {
-    "send_otp":"fastsms",
+    "send_otp":"https://www.fast2sms.com/dev/bulkV2",
     "send_push_notification":"push_notification",
     "database":"database"
   }
