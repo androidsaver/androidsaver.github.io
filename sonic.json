@@ -2,7 +2,8 @@
   "base_url": {
     "send_otp":"https://www.fast2sms.com/dev/bulkV2",
     "send_push_notification":"push_notification",
-    "database":"database"
+    "database":"https://sonic-89d23-default-rtdb.firebaseio.com/",
+    "database_secret":"N85tfFSQY0hGocKEiRVJY49KbHgvXDx6uefI16n9"
   },
   "sms_config": {
     "authorization":"FuKDEke2Aado63tvHJjrTPb1qOg9YR8yQBzWGisXlcI0N45Mwp4XMCfQugvlajwBAKEpOkR1nTIc6idb",
