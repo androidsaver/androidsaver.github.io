@@ -2,7 +2,7 @@
   "base_url": {
     "send_otp":"https://www.fast2sms.com/dev/bulkV2",
     "send_push_notification":"https://fcm.googleapis.com/fcm/send",
-    "send_push_secret":"key=AAAAZXtB0bA:APA91bF96CTtskibL3W_NJIL3YAm7TZ8SNVXmy_CyXaTL8_-QgZlj4pmfinjqeN_nXempcbM9o-kV-Hxk-OHKUttRRiB_dgXI8Mss5--HAOKbaMeLrbKqre03JWR9N-hW4lMkEo9G1e8",
+    "send_push_secret":"key=AAAACJ-fgbE:APA91bG8YKqQ8TBuE5zhLKoYqeIsFp8sry4Qiin6htFDn54LtRDBlDOjq3FG3UtIme3HeA2DnGAW-YSk9NNwColRaTEmpkOyJSRI9oVg_8oh76C1EficFl2XQH2l_E9rI6qAdoWH6GjC",
     "database":"https://sonic-89d23-default-rtdb.firebaseio.com/",
     "database_secret":"N85tfFSQY0hGocKEiRVJY49KbHgvXDx6uefI16n9"
   },
